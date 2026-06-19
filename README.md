@@ -2,6 +2,30 @@
 Professional learning portfolio documenting AWS Cloud, Python Development, GitHub, AI Governance, and Agentic AI projects.
 # AWS, Python, GitHub & Agentic AI Learning Journey
 
+## Professional Profile
+
+Technology executive and cybersecurity leader with extensive experience leading enterprise information technology, data governance, cybersecurity, cloud computing, and artificial intelligence initiatives across federal government organizations. Proven track record providing strategic leadership and operational oversight in roles including Chief Data Officer and Bureau AI Use Case Manager, Chief Information Officer, Information Technology Governance Branch Chief (INFOSEC/Policy), Cybersecurity Assessment Unit Chief, Information Systems Security Manager, Cloud Analyst, Information Technology Project Manager, Vulnerability Manager, and Data Steward. Experienced in AI governance, cloud architecture, cybersecurity risk management, enterprise data strategy, IT portfolio management, compliance, and the implementation of mission-critical technology solutions that support organizational objectives while protecting the confidentiality, integrity, and availability of information systems and data.
+
+
+## Core Competencies
+
+* Artificial Intelligence Governance
+* Data Governance & Data Strategy
+* AWS Cloud Architecture
+* Cybersecurity & Risk Management
+* NIST Risk Management Framework (RMF)
+* Information Security Governance
+* IT Portfolio & Investment Management
+* Enterprise Architecture
+* Python Automation
+* GitHub & DevSecOps
+* Vulnerability Management
+* Continuous Monitoring
+* Federal Information Technology Management
+* Strategic Planning & Technology Leadership
+* Project & Program Management
+
+
 ## Overview
 
 Welcome to my professional learning and portfolio repository. As a Chief Data Officer, AI Use Case Manager, cybersecurity leader, and former AWS Certified Solutions Architect, I am focused on refreshing and expanding my cloud, software development, and artificial intelligence capabilities. This repository documents my journey to recertify in AWS, strengthen hands-on Python development skills, master GitHub and GitHub Copilot, and build practical Agentic AI solutions.
